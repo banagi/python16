@@ -8,6 +8,9 @@ git init - инициализация
 git add <file_name> <.> - для проверки статуса
 git commit -m "comments" - оп фиксирует файл и создает хэш сумму,(при помощи нее создается комментарии) 
 
+git push origin master - отправка всех локальных коммитов в удаленный репозиторий
+
+
 git remote add origin git@github.com:banagi/python16.git
 
 git clone - просто клон проекта из удаленного сервера Github
