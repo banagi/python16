@@ -13,7 +13,5 @@ git remote add origin git@github.com:banagi/python16.git
 git clone - просто клон проекта из удаленного сервера Github
 
 
-
-hgfjdhgf
-gkjgljdf
-nvmbnm
+git config --global user.name 'Nargiza'
+git config --global user.email 3271706@gmail.com
